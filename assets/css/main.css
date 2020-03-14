@@ -3391,7 +3391,7 @@ body.is-preload #wrapper.fade-in:before {
   cursor: default;
   text-align: center;
   z-index: 1;
-  min-height: 50vh;
+  /* min-height: 50vh; */
 }
 
 #intro input,
